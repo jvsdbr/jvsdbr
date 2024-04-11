@@ -1,0 +1,11 @@
+body{background: rgb(0,0,0);
+background: -moz-linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%);
+background: -webkit-linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%);
+background: linear-gradient(90deg, rgba(0,0,0,1) 100%, rgba(0,0,0,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);}
+p{color:white}
+h1{color:white}
+img{width:700px; height: 560px;;}
+h2{color: paleturquoise;}
+th{color: aliceblue;}
+td{color: azure;}
